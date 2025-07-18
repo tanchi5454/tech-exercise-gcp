@@ -1,6 +1,7 @@
 # tech-exercise-gcp
 Wiz Technical Exercise environment on GCP with Terraform and GKE
 
+```
 .
 ├── .github/
 │   └── workflows/
@@ -19,3 +20,4 @@ Wiz Technical Exercise environment on GCP with Terraform and GKE
     ├── main.tf               # メインのTerraform定義ファイル
     ├── variables.tf          # 変数定義
     └── outputs.tf            # 出力定義
+```
